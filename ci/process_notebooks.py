@@ -88,11 +88,18 @@ def main(arglist):
 
     # TODO Check compliancy with PEP8, generate a report, but don't fail
 
+    # Further filter the notebooks to run post-processing only on tutorials
+    tutorials = {
+        nb_path: nb
+        for nb_path, nb in notebooks.items()
+        if nb_path.startswith("tutorials")
+    }
+
     # TODO Check notebook name format?
     # (If implemented, update the CI workflow to only run on tutorials)
 
     # Post-process notebooks to remove solution code and write both versions
-    for nb_path, nb in notebooks.items():
+    for nb_path, nb in tutorials.items():
 
         # Extract components of the notebook path
         nb_dir, nb_fname = os.path.split(nb_path)
@@ -249,7 +256,7 @@ def redirect_colab_badge_to_master_branch(cell):
 def redirect_colab_badge_to_student_version(cell):
     """Modify the Colab badge to point at student version of the notebook."""
     cell_text = cell["source"]
-    p = re.compile(r"(^.+/tutorials/W\dD\d-\w+)/(\w+\.ipynb.+)")
+    p = re.compile(r"(^.+/tutorials/W\dD\d\w+)/(\w+\.ipynb.+)")
     cell["source"] = p.sub(r"\1/student/\2", cell_text)
 
 
