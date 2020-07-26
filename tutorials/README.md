@@ -167,11 +167,15 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/2uc6v/?direct%
 ## W2D5 - Reinforcement Learning
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18P7mSCMDbLiTMdo_7eRvdjl)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/cpxqn/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/axq7c/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/pmw8z/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial1.ipynb?flush_cache=true) |
 | Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial2.ipynb?flush_cache=true) |
 | Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial3.ipynb?flush_cache=true) |
+| Tutorial 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial4.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W2D5_ReinforcementLearning/student/W2D5_Tutorial4.ipynb?flush_cache=true) |
 
 
 
@@ -179,6 +183,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/2uc6v/?direct%
 ## W3D1 - Real Neurons
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/gyfr2/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/8djsm/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/agpmt/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/cd5u8/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D1_RealNeurons/student/W3D1_Tutorial1.ipynb?flush_cache=true) |

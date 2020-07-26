@@ -284,12 +284,12 @@ Group projects are offered for the *interactive track* only and will be running 
 
 |    Time (Hour)   |    Lecture                            |    Details                                                            |
 |------------------|---------------------------------------|-----------------------------------------------------------------------|
-|    -0:30-0:00\*   |    Intro / keynote & tutorial setup   |    Problem formulations: actor-critic                                 |
+|    -0:30-0:00\*   |    Intro / keynote & tutorial setup   |    We want reward now and in the future...                           |
 |    0:00-0:15     |    Pod Discussion I                   |    Lecture discussion with pod TA                                     |
-|    0:20-1:35     |    Tutorials + nano-lectures I        |    Critic: reward prediction error, Exploration (POMDP) vs exploitation |
+|    0:20-1:35     |    Tutorials + nano-lectures I        |    Predicting rewards, learning to act in one-step tasks, Exploration vs exploitation |
 |    1:35-1:55     |    Pod Discussion II                  |    Discussion with pod TA                                             |
 |    1:55-2:55     |    Big break                          |    BREAK                                                              |
-|    2:55-4:10     |    Tutorials + nano-lectures II       |    Model-based vs model-free RL, Multi-arm bandits: foraging          |
+|    2:55-4:10     |    Tutorials + nano-lectures II       |    Learning to act in multi-step tasks, on-policy vs. off-policy control, Model-based vs model-free RL          |
 |    4:10-4:30     |    Pod Discussion III                 |    Discussion with pod TA                                             |
 |    4:35-5:05**     |    Outro                              |    Recap session, RL and the brain                                    |
 |    5:05-6:05     |    Q&A                                |    Q&A with lecturers/Mentors                                         |
@@ -437,7 +437,7 @@ Group projects are offered for the *interactive track* only and will be running 
 
 ----
 # Professional Development Sessions
-These are hour-long Crowdcast events with a panel of speakers that will discuss a topic and answer audience questions.  For times in the relevant time-zones, see the [Neurostars Calendar](https://neurostars.org/t/professional-development-and-social-calendar/10496). They will be live streamed and recorded for later watching at the same Crowdcast link. Some sessions are duplicated to ensure coverage for students in different time-zones. 
+These are hour-long live-streamed events with a panel of speakers that will discuss a topic and answer audience questions.  For times in the relevant time-zones, see the [Neurostars Calendar](https://neurostars.org/t/professional-development-and-social-calendar/10496). These sessions will be recorded for later replay. Some sessions are duplicated to ensure coverage for students in different time-zones. 
 
 ## Weekend 1: July 18 & 19
 |   Session   |  Date |   Description                                                         |
@@ -456,11 +456,11 @@ These are hour-long Crowdcast events with a panel of speakers that will discuss 
 |-------------------|--------------------|-----------------------------------------------------------------------|
 |  **1.1 Inclusive Neuroscience**  |  July 25, 16:00 UTC|  NMA Staff <br> A goal of the NMA is to lower the barriers for learning about neuroscience.  These barriers take many forms and this session will feature organizers discussing what we have done to make our platform more inclusive. We will wrap up with suggestions from students about how we can improve for next year. Bring your suggestions please!<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)   
 |  **3.1 Open Science**  |  July 25, 15:00 UTC|  Nici Pfeiffer (COS), Mark Musen (CEDAR, Stanford) <br> The Center for Open Science develops tools for project management, collaboration, preregistration, and data sharing. CEDAR enables investigators to author metadata, annotating experimental datasets to make data more findable, accessible, interoperable, and reusable (FAIR).<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)       
-|   **7.1 FRL Career Forum**  | July 26 1:00 UTC | Facebook Reality Labs (FRL) researchers, developers, and engineers are building the future of connection within AR/VR. Join our ‘FRL Career Forum’ to hear from our scientists about how we use computational neuroscience & machine learning – and from our recruiters about job opportunities. Excited to meet the many diverse talents from NMA! <br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)  
+|   **7.1 FRL Career Forum**  | July 26 01:00 UTC | Facebook Reality Labs (FRL) researchers, developers, and engineers are building the future of connection within AR/VR. Join our ‘FRL Career Forum’ to hear from our scientists about how we use computational neuroscience & machine learning – and from our recruiters about job opportunities. Excited to meet the many diverse talents from NMA! <br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)  
 |   **7.2 FRL Career Forum**  | July 26 14:00 UTC | Facebook Reality Labs (FRL) researchers, developers, and engineers are building the future of connection within AR/VR. Join our ‘FRL Career Forum’ to hear from our scientists about how we use computational neuroscience & machine learning – and from our recruiters about job opportunities. Excited to meet the many diverse talents from NMA! <br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)   
 |   **8.1 Careers in Industry** | July 25 20:00 UTC| Becky Clarkson (Apple), Kyle Frankovich (Insight Data Science), Kachi Odoememe (APL)<br> Research careers in industry. <br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)  
 |   **8.2 Careers in Industry**  | July 25 18:00 UTC| Feryal Behbahani (DeepMind), Sophie Kenny (Vpixx), Graeme Moffat (System2 Neurotechnology) <br>Research careers in industry.<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)  
-|   **9.1 Careers in Academia**  | July 26 5:00 UTC | Sripati Panditaradhyula Arun (IISc), Minhae Kwon (Soongsil University), Taro Toyoizumi (RIKEN) <br> Research careers in academia.<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)   
+|   **9.1 Careers in Academia**  | July 26 05:00 UTC | S.P. Arun (IISc), Minhae Kwon (Soongsil University), Taro Toyoizumi (RIKEN) <br> Research careers in academia.<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)   
 |   **9.3 Careers in Academia**  | July 26 16:00 UTC  | Russ Poldrack (Stanford), Xiao-Jing Wang (NYU) <br> Research careers in academia.<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream)  
 |   **10.1 How We Built This**  | July 26 20:00 UTC | Ella Batty, Patrick Mineault, Madineh Sarvestani, Tara van Viegen, Michael Waskom, <br>2000 students, 200 TAs, 200 volunteers, 20 days of content, 20 hours of video - how we built and launched NMA in 2 months.<br>[http://neuromatchacademy.org/stream](http://neuromatchacademy.org/stream) 
 
