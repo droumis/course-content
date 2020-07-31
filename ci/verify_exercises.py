@@ -137,9 +137,15 @@ def logical_lines(func_str):
 
             # Detect and ignore single-line docstrings
             text = line.strip()
-            if text.startswith('"""') and text.endswith('"""'):
+            single_line_docstring = (
+                text.startswith('"""')
+                and text.endswith('"""')
+                and len(text) > 3
+            )
+            if single_line_docstring:
                 continue
 
+            # Otherwise, assume we are starting a comment block
             if comment_block_fence:
                 reading_block_comment = True
                 continue
@@ -147,9 +153,14 @@ def logical_lines(func_str):
         match = pattern.match(line)
         if match:
 
-            # Use nonn-commented component of a lie with inline comments
+            # Split the line on the first comment hash encountered
             code_line = match.group(1)
             comment_line = match.group(2)
+
+            # If there is code before the comment, assume comment is inline
+            # use entire line (allows inline comments in commented-out code)
+            if dedent(code_line):
+                code_line = match.group(0)
 
             # Handle xkcd context, which is always last thing in solution cell
             if "plt.xkcd()" in code_line:

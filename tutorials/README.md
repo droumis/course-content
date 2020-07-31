@@ -168,7 +168,7 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/2uc6v/?direct%
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18P7mSCMDbLiTMdo_7eRvdjl)
 
-Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/cpxqn/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/axq7c/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/pmw8z/?direct%26mode=render%26action=download%26mode=render)
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/cpxqn/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/axq7c/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/pmw8z/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/fvjwe/?direct%26mode=render%26action=download%26mode=render)
 
 |   | Run | View |
 | - | --- | ---- |
@@ -199,6 +199,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/gyfr2/?direct%
 ## W3D2 - Dynamic Networks
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18PrZb52EVhNgrfPjLF0OPEJ)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/mdve5/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/nvuty/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/6qtxn/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/zq94w/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D2_DynamicNetworks/student/W3D2_Tutorial1.ipynb?flush_cache=true) |
@@ -210,6 +213,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/gyfr2/?direct%
 ## W3D3 - Network Causality
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18P46LiVj6hCd4w1SLpVJo63)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/fsxkt/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/gp4m9/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/acxqf/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/5kbrs/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D3_NetworkCausality/student/W3D3_Tutorial1.ipynb?flush_cache=true) |
@@ -223,6 +229,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/gyfr2/?direct%
 ## W3D4 - Deep Learning1
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18PZ2uw0p7G4EkzjzqP8l0Eg)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/jw829/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/fsqhr/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/z5g93/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/w6dfq/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D4_DeepLearning1/student/W3D4_Tutorial1.ipynb?flush_cache=true) |
@@ -235,6 +244,9 @@ Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/gyfr2/?direct%
 ## W3D5 - Deep Learning2
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18Ojl1CV8W00JZ0C0hivBxw1)
+
+Slides: [Intro](https://mfr.ca-1.osf.io/render?url=https://osf.io/pdnsg/?direct%26mode=render%26action=download%26mode=render) | [Tutorials](https://mfr.ca-1.osf.io/render?url=https://osf.io/us7rx/?direct%26mode=render%26action=download%26mode=render) | [Outro](https://mfr.ca-1.osf.io/render?url=https://osf.io/4zv8q/?direct%26mode=render%26action=download%26mode=render) | [Reading](https://mfr.ca-1.osf.io/render?url=https://osf.io/bp4r6/?direct%26mode=render%26action=download%26mode=render)
+
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W3D5_DeepLearning2/student/W3D5_Tutorial1.ipynb?flush_cache=true) |
